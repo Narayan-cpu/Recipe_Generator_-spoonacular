@@ -1,7 +1,3 @@
-Here's a fun and humorous README for your project:
-
----
-
 # 🥘 Recipe Generator - Powered by Spoonacular API & Next.js 🍴  
 
 Welcome to the ultimate **Recipe Generator**, where **your hunger meets technology**! Think of this project as your personal chef, but without the fancy hat and the ability to burn your kitchen down. 🔥
