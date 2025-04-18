@@ -78,12 +78,6 @@ Want to add some spice to this project? 🌶️ Fork it, clone it, and let’s c
 
 ---
 
-## 📸 Screenshots
-
-(Insert drool-worthy screenshots here 📷)
-
----
-
 ## 🥂 Acknowledgements
 
 A huge shoutout to:
@@ -102,6 +96,4 @@ This app may cause extreme hunger and sudden urges to cook. Use responsibly.
 
 Now stop reading and start cooking! 🍳✨  
 
----
-
-Let me know if you'd like any changes or additions!
+you know star this repo any chitchat contack https://thenarayannaik.live
